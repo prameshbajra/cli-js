@@ -15,9 +15,9 @@ request.get(url, (err, res) => {
         throw err;
     }
     else {
-        spinner.succeed("Done");
+        spinner.succeed("Done \n Thank you for using cli-js");
         console.log("\n");
-        console.log(res.body.substring(51, res.body.length - 10));
+        console.log(chalk.yellow(res.body.substring(51, res.body.length - 10)));
         console.log("\n");
     }
 });
