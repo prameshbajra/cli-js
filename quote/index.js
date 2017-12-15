@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const request = require("request");
 const chalk = require("chalk");
 const optimist = require("optimist");
@@ -11,8 +13,8 @@ spinner.start();
 
 request.get(url, (err, res) => {
     if (err) {
-        spinner.fail("Some wild error appears");
-        throw err;
+        spinner.fail(chalk.red("Some wild error appeared"));
+        console.log(chalk.red("Are you sure you are connected to internet?"));
     }
     else {
         spinner.succeed("Done \n Thank you for using cli-js");
