@@ -1,13 +1,13 @@
 {
-    "name": "demo",
-    "version": "1.0.0",
-    "description": "demo cli",
+    "name": "myquote",
+    "version": "1.0.1",
+    "description": "A cli tool to get random quote",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "bin": {
-        "quote": "index.js"
+        "myquote": "index.js"
     },
     "author": "Pramesh Bajracharya",
     "license": "MIT",
