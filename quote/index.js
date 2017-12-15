@@ -2,7 +2,6 @@
 
 const request = require("request");
 const chalk = require("chalk");
-const optimist = require("optimist");
 const ora = require("ora");
 
 const url = "https://mixedapi.herokuapp.com/quotes";

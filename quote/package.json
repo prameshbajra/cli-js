@@ -1,6 +1,6 @@
 {
     "name": "myquote",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "description": "A cli tool to get random quote",
     "main": "index.js",
     "scripts": {
