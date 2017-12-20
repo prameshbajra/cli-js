@@ -1,7 +1,7 @@
 {
-    "name": "myjoke",
+    "name": "mypickup",
     "version": "0.0.1",
-    "description": "A CLI tool to get a random joke.",
+    "description": "A CLI tool to get a random pick up line.",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,7 @@
         "request": "^2.83.0"
     },
     "bin": {
-        "myjoke": "index.js"
+        "mypickup": "index.js"
     },
     "devDependencies": {
         "eslint": "^4.9.0",
