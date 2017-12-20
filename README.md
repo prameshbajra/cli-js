@@ -2,4 +2,9 @@
 
 Writing command line tools in JavaScript.
 
-- quote -> `Gives you a random quote everytime you use it`
+- myquote -> `Gives you a random quote everytime you use it.`
+
+- myjoke ->  `Gives you a random joke everytime you use it.`
+
+- mypickup ->  `Gives you a random pickup line everytime you use it.`
+
