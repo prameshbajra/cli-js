@@ -1,7 +1,7 @@
-# A CLI command to get random one liner jokes.
+# A CLI command to get random one liner pick up lines.
 
 <br/>
 - Install this :
     <br/><br/>
-    `npm install -g myjoke`
+    `npm install -g mypickup`
 

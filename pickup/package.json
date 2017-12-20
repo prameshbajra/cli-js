@@ -1,6 +1,6 @@
 {
     "name": "mypickup",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "A CLI tool to get a random pick up line.",
     "main": "index.js",
     "scripts": {
