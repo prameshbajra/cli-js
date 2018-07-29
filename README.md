@@ -8,3 +8,6 @@ Writing command line tools in JavaScript.
 
 - mypickup ->  `Gives you a random pickup line everytime you use it.`
 
+### Update
+
+- Console.log() remover -> Remove console.log from multiple files at once just by command line.
